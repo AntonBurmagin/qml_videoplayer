@@ -1,0 +1,95 @@
+# ninja log v5
+18	470	6657692687097976	video_player_QML_autogen/timestamp	5c2647abd9c9d54
+18	470	6657692687097976	video_player_QML_autogen/mocs_compilation.cpp	5c2647abd9c9d54
+1179	1700	6657669132067424	CMakeFiles/video_player_QML.dir/video_player_QML_autogen/mocs_compilation.cpp.obj	fbefd73e9144b534
+18	470	6657692687097976	C:/Users/burma/Desktop/C++/HW/HW-37 Qt Designer and UI/build-video_player_QML-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/video_player_QML_autogen/timestamp	5c2647abd9c9d54
+288	4224	6657716805593527	CMakeFiles/video_player_QML.dir/video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp.obj	2e7c92a281919a25
+16	286	6657716766155341	video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp	7affb9793db1a32a
+18	470	6657692687097976	C:/Users/burma/Desktop/C++/HW/HW-37 Qt Designer and UI/build-video_player_QML-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/video_player_QML_autogen/mocs_compilation.cpp	5c2647abd9c9d54
+16	286	6657716766155341	C:/Users/burma/Desktop/C++/HW/HW-37 Qt Designer and UI/build-video_player_QML-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp	7affb9793db1a32a
+1246	5457	6657669169857504	CMakeFiles/video_player_QML.dir/main.cpp.obj	cb5ddd9b89302dda
+4226	4593	6657716809298060	video_player_QML.exe	e5225488f2f27ec9
+22	324	6657717084212737	video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp	7affb9793db1a32a
+22	324	6657717084212737	C:/Users/burma/Desktop/C++/HW/HW-37 Qt Designer and UI/build-video_player_QML-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp	7affb9793db1a32a
+326	4019	6657717121208602	CMakeFiles/video_player_QML.dir/video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp.obj	2e7c92a281919a25
+4021	4413	6657717125065271	video_player_QML.exe	e5225488f2f27ec9
+15	390	6657717751015863	video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp	7affb9793db1a32a
+15	390	6657717751015863	C:/Users/burma/Desktop/C++/HW/HW-37 Qt Designer and UI/build-video_player_QML-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp	7affb9793db1a32a
+391	4225	6657717789923398	CMakeFiles/video_player_QML.dir/video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp.obj	2e7c92a281919a25
+4227	4623	6657717793933546	video_player_QML.exe	e5225488f2f27ec9
+13	224	6657718700687702	video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp	7affb9793db1a32a
+13	224	6657718700687702	C:/Users/burma/Desktop/C++/HW/HW-37 Qt Designer and UI/build-video_player_QML-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp	7affb9793db1a32a
+225	3817	6657718736575241	CMakeFiles/video_player_QML.dir/video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp.obj	2e7c92a281919a25
+3819	4185	6657718740124220	video_player_QML.exe	e5225488f2f27ec9
+13	243	6657719620981501	video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp	7affb9793db1a32a
+13	243	6657719620981501	C:/Users/burma/Desktop/C++/HW/HW-37 Qt Designer and UI/build-video_player_QML-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp	7affb9793db1a32a
+245	3896	6657719657490895	CMakeFiles/video_player_QML.dir/video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp.obj	2e7c92a281919a25
+3898	4315	6657719661657089	video_player_QML.exe	e5225488f2f27ec9
+17	271	6657720877720762	video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp	7affb9793db1a32a
+17	271	6657720877720762	C:/Users/burma/Desktop/C++/HW/HW-37 Qt Designer and UI/build-video_player_QML-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp	7affb9793db1a32a
+272	3923	6657720914253947	CMakeFiles/video_player_QML.dir/video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp.obj	2e7c92a281919a25
+3925	4299	6657720917960892	video_player_QML.exe	e5225488f2f27ec9
+16	293	6657721359279725	video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp	7affb9793db1a32a
+16	293	6657721359279725	C:/Users/burma/Desktop/C++/HW/HW-37 Qt Designer and UI/build-video_player_QML-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp	7affb9793db1a32a
+294	4147	6657721398120951	CMakeFiles/video_player_QML.dir/video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp.obj	2e7c92a281919a25
+4149	4592	6657721402174261	video_player_QML.exe	e5225488f2f27ec9
+14	322	6657722107451210	video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp	7affb9793db1a32a
+14	322	6657722107451210	C:/Users/burma/Desktop/C++/HW/HW-37 Qt Designer and UI/build-video_player_QML-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp	7affb9793db1a32a
+324	4217	6657722146506635	CMakeFiles/video_player_QML.dir/video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp.obj	2e7c92a281919a25
+4219	4657	6657722150871364	video_player_QML.exe	e5225488f2f27ec9
+16	301	6657722744743161	video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp	7affb9793db1a32a
+16	301	6657722744743161	C:/Users/burma/Desktop/C++/HW/HW-37 Qt Designer and UI/build-video_player_QML-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp	7affb9793db1a32a
+303	4195	6657722783496096	CMakeFiles/video_player_QML.dir/video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp.obj	2e7c92a281919a25
+4197	4628	6657722787973448	video_player_QML.exe	e5225488f2f27ec9
+15	351	6657724977983761	video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp	7affb9793db1a32a
+15	351	6657724977983761	C:/Users/burma/Desktop/C++/HW/HW-37 Qt Designer and UI/build-video_player_QML-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp	7affb9793db1a32a
+352	4333	6657725017909719	CMakeFiles/video_player_QML.dir/video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp.obj	2e7c92a281919a25
+4334	4719	6657725021610178	video_player_QML.exe	e5225488f2f27ec9
+15	300	6657725956825334	video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp	7affb9793db1a32a
+15	300	6657725956825334	C:/Users/burma/Desktop/C++/HW/HW-37 Qt Designer and UI/build-video_player_QML-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp	7affb9793db1a32a
+302	4144	6657725995399706	CMakeFiles/video_player_QML.dir/video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp.obj	2e7c92a281919a25
+4146	4536	6657725999062738	video_player_QML.exe	e5225488f2f27ec9
+17	337	6657726508579986	video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp	7affb9793db1a32a
+17	337	6657726508579986	C:/Users/burma/Desktop/C++/HW/HW-37 Qt Designer and UI/build-video_player_QML-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp	7affb9793db1a32a
+338	4209	6657726547451250	CMakeFiles/video_player_QML.dir/video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp.obj	2e7c92a281919a25
+4211	4604	6657726551148116	video_player_QML.exe	e5225488f2f27ec9
+17	346	6657726772706502	video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp	7affb9793db1a32a
+17	346	6657726772706502	C:/Users/burma/Desktop/C++/HW/HW-37 Qt Designer and UI/build-video_player_QML-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp	7affb9793db1a32a
+347	4201	6657726811617745	CMakeFiles/video_player_QML.dir/video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp.obj	2e7c92a281919a25
+4203	4630	6657726816104247	video_player_QML.exe	e5225488f2f27ec9
+15	296	6657727909140400	video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp	7affb9793db1a32a
+15	296	6657727909140400	C:/Users/burma/Desktop/C++/HW/HW-37 Qt Designer and UI/build-video_player_QML-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp	7affb9793db1a32a
+297	4184	6657727948086144	CMakeFiles/video_player_QML.dir/video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp.obj	2e7c92a281919a25
+4186	4554	6657727951629431	video_player_QML.exe	e5225488f2f27ec9
+15	303	6657729336167652	video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp	7affb9793db1a32a
+15	303	6657729336167652	C:/Users/burma/Desktop/C++/HW/HW-37 Qt Designer and UI/build-video_player_QML-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp	7affb9793db1a32a
+304	4306	6657729376382464	CMakeFiles/video_player_QML.dir/video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp.obj	2e7c92a281919a25
+4308	4680	6657729380086579	video_player_QML.exe	e5225488f2f27ec9
+16	246	6657729852109664	video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp	7affb9793db1a32a
+16	246	6657729852109664	C:/Users/burma/Desktop/C++/HW/HW-37 Qt Designer and UI/build-video_player_QML-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp	7affb9793db1a32a
+248	3951	6657729889248182	CMakeFiles/video_player_QML.dir/video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp.obj	2e7c92a281919a25
+3952	4306	6657729892637775	video_player_QML.exe	e5225488f2f27ec9
+50	397	6657730241970823	video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp	7affb9793db1a32a
+50	397	6657730241970823	C:/Users/burma/Desktop/C++/HW/HW-37 Qt Designer and UI/build-video_player_QML-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp	7affb9793db1a32a
+399	4368	6657730281712526	CMakeFiles/video_player_QML.dir/video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp.obj	2e7c92a281919a25
+4370	4837	6657730286038842	video_player_QML.exe	e5225488f2f27ec9
+16	343	6657730578102727	video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp	7affb9793db1a32a
+16	343	6657730578102727	C:/Users/burma/Desktop/C++/HW/HW-37 Qt Designer and UI/build-video_player_QML-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp	7affb9793db1a32a
+345	4233	6657730616844082	CMakeFiles/video_player_QML.dir/video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp.obj	2e7c92a281919a25
+4234	4646	6657730621172672	video_player_QML.exe	e5225488f2f27ec9
+15	304	6657730966547928	video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp	7affb9793db1a32a
+15	304	6657730966547928	C:/Users/burma/Desktop/C++/HW/HW-37 Qt Designer and UI/build-video_player_QML-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp	7affb9793db1a32a
+305	4182	6657731005426519	CMakeFiles/video_player_QML.dir/video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp.obj	2e7c92a281919a25
+4183	4621	6657731009596688	video_player_QML.exe	e5225488f2f27ec9
+16	340	6657732127871149	video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp	7affb9793db1a32a
+16	340	6657732127871149	C:/Users/burma/Desktop/C++/HW/HW-37 Qt Designer and UI/build-video_player_QML-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp	7affb9793db1a32a
+341	4233	6657732166940396	CMakeFiles/video_player_QML.dir/video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp.obj	2e7c92a281919a25
+4235	4664	6657732170798718	video_player_QML.exe	e5225488f2f27ec9
+15	292	6657732727177764	video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp	7affb9793db1a32a
+15	292	6657732727177764	C:/Users/burma/Desktop/C++/HW/HW-37 Qt Designer and UI/build-video_player_QML-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp	7affb9793db1a32a
+293	3921	6657732763865601	CMakeFiles/video_player_QML.dir/video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp.obj	2e7c92a281919a25
+3923	4344	6657732768038077	video_player_QML.exe	e5225488f2f27ec9
+18	488	6657739044426244	video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp	7affb9793db1a32a
+18	488	6657739044426244	C:/Users/burma/Desktop/C++/HW/HW-37 Qt Designer and UI/build-video_player_QML-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp	7affb9793db1a32a
+490	5358	6657739094659258	CMakeFiles/video_player_QML.dir/video_player_QML_autogen/EWIEGA46WW/qrc_qml.cpp.obj	2e7c92a281919a25
+5365	6006	6657739099053077	video_player_QML.exe	e5225488f2f27ec9

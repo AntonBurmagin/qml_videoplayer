@@ -1,0 +1,5 @@
+C:/Users/burma/Desktop/C++/HW/HW-37 Qt Designer and UI/build-video_player_QML-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/video_player_QML.dir
+C:/Users/burma/Desktop/C++/HW/HW-37 Qt Designer and UI/build-video_player_QML-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/burma/Desktop/C++/HW/HW-37 Qt Designer and UI/build-video_player_QML-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/burma/Desktop/C++/HW/HW-37 Qt Designer and UI/build-video_player_QML-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/video_player_QML_autogen_timestamp_deps.dir
+C:/Users/burma/Desktop/C++/HW/HW-37 Qt Designer and UI/build-video_player_QML-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/video_player_QML_autogen.dir
